@@ -6,6 +6,7 @@ toc_max_heading_level: 2
 ---
 
 # Resume
+<br/>
 
 ## Summary
 Enterprise Architect & Digital Technologist passionate about building capabilities 
