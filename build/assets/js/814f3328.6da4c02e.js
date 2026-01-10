@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkryanknopp_com_3=globalThis.webpackChunkryanknopp_com_3||[]).push([[472],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"New Web Site","permalink":"/blog/new-site","unlisted":false,"date":"2026-01-10T00:00:00.000Z"}]}')}}]);
