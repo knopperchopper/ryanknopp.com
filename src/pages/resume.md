@@ -21,11 +21,13 @@ inclusion.
 ### Enterprise Architect - Solutions & Data
 **2024 - Present** | [Elanco Animal Health](https://elanco.com), Greenfield, IN
 
-- Senior architecture leader in IT Solution Operations organization accountable for technology 
-direction of business applications and systems.
+- Senior leader on highest priority IT initatives guiding technology strategy, consulting architects 
+and product tech leads, and delivering critical business outcomes.
 
-- Lead team efforts in digital innovation and solution discovery.  Includes ideation, rapid 
-prototyping, MVP development, technology proof-of-concept, and roadmap planning.
+- Dotted line supervisor for all business facing solution and data architects. 
+
+- Own and facilitate Enterprise Architecture review and governance process for entire portfolio
+of IT projects.
 
 - Mentor architects, technology SMEs, business partners, and leadership on technology alignment, 
 trends, processes, and strategy.
@@ -167,10 +169,25 @@ Graduated from Indiana University’s School of Informatics New Media program wi
 <br/>
 
 ## Proficiency ##
+
+I have diverse experience across many industries, technologies, and ways of working. I have selected a sample of skills that I have developed over the years. This list is by no means complete, but it should represent areas where I have both direct working experience and are relevant as a modern technologist.
+<br/>
+
+### Concepts & Techniques ###
+
+Enterprise Architecture, Solution Architecture, Solution Design, Cloud Computing, Web Applications, APIs, Microservices, DevSecOps, Zero Trust Security, AI, Machine Learning, LLMs, ITIL, Service Management, Governance, Change Management, Software Engineering, Continuous Integration, Continuous Delivery, Regulatory Compliance, UX Research and Design, Database Design, Business Requirements Analysis, Automated Testing, Observability, Infrastructure as Code, Agile Methodologies, Computer Graphics, Game Engine Technology, Visual Design
+<br/>
+
+### Platforms, Technologies, Tools ###
+
+Microsoft Azure, Google Cloud Platform, AWS, Cloudflare, Heroku, Netlify, Salesforce.com, Github, Jenkins, SonarQube,  Windows, Mac, Linux, Proxmox, Unifi, Visual Studio Code, Visual Studio, xCode, Vitest, Jest, Mocha, ESLint, SauceLabs, Terraform/OpenTofu, Ansible, Packer, Docker, Portainer, TrueNAS, Prometheus, Grafana, Loki, New Relic, Papertrail, HTML, CSS, JavaScript, Typescript, Node.js, C#, Git, Express, ReactJS, RESTful APIs, SQL, NoSQL, ORM, JSON, XML, YAML, Markdown, IaaS, PaaS, FaaS, SaaS, Containers, Tailscale, LucidChart, Draw.io, Unity3D, Autodesk Maya, Adobe Creative Cloud, Figma, FreeCAD
+<br/>
+
+### Industries
+
+Pharmaceuticals, Life Sciences, Manufacturing, Marketing, Sales, Consumer Packaged Goods, Medical Devices, Healthcare, Consumer Appliances, Government, Housing, Civil Engineering, Technology, Higher Education 
+<br/>
+
 ### Soft Skills ###
 
-- Experienced in mentoring and influencing superiors, peers, partners, and direct reports.
-
-- Excellent oral, visual, and written communication skills.
-
-- Quick to understand, adopt, and implement new technology as it evolves over time.
+Communication (Written, Verbal, Visual), Active Listening, Mentorship, Coaching, Learning Agility, Leadership, Planning, Storytelling, Project Management, Team Building, Strategy Creation, Organization, Open-minded, Assertiveness

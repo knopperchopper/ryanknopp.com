@@ -2,3 +2,8 @@ general:
   label: General
   permalink: /general
   description: General updates about what is going on with me.
+
+homelab:
+  label: Homelab
+  permalink: /homelab
+  description: My Homelab is my tech stack for personal and professional technology hobbies and learning.
