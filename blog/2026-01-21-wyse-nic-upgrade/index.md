@@ -24,11 +24,11 @@ For mounting the port, the supplied screws work sufficiently in the existing VGA
 
 ![Ethernet Port Installed](./eth-port-installed.jpeg)
 
-After the port is installed, the M.2 A+E card can be inserted in the opening on the motherboard. The adapter comes with a screw to attach the card to the M.2 mounting post. I routed the cable around the other M.2 slot housing the system SSD. In the picture below, you can see the final installed product along with some of the other upgrades of made.
+After the port is installed, the M.2 A+E card can be inserted in the opening on the motherboard. The adapter comes with a screw to attach the card to the M.2 mounting post. I routed the cable around the other M.2 slot housing the system SSD. In the picture below, you can see the final installed product along with some of the other upgrades I've made.
 
 ![Adapter Installed Top View](./adapter-installed-topview.jpeg)
 
-And, with the upgraded nodes installed back into my mini rack. I really love the [Monoprice Snagless SlimRun](https://www.monoprice.com/product?p_id=29474) cables. They are well-made, flexible, and small which is perfect for routing in tight spaces like this.
+And, another picture of the upgraded nodes installed back into my mini rack. I really love the [Monoprice Snagless SlimRun](https://www.monoprice.com/product?p_id=29474) cables. They are well-made, flexible, and small which is perfect for routing in tight spaces like this.
 
 ![Adapter Installed Rack View](./adapter-installed-rack.jpeg)
 
