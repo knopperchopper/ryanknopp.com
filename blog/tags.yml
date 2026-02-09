@@ -17,3 +17,8 @@ hardware:
   label: hardware
   permalink: /hardware
   description: Motherboard, CPU, RAM, Drives, Cases, Peripherals, etc.
+
+services:
+  label: services
+  permalink: /services
+  description: Applications, Platforms, and Tools that I'm running in my Homelab.
