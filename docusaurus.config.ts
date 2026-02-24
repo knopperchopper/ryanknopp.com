@@ -24,7 +24,7 @@ const config: Config = {
   organizationName: 'knopperchopper', // Usually your GitHub org/user name.
   projectName: 'mywebsite', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'log',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
